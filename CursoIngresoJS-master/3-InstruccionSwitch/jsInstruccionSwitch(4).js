@@ -13,11 +13,11 @@ switch(mesDelAño)
             alert("Tiene 31 días.");
             break;
         
-            case "Febrero":
+        case "Febrero":
             alert("Tiene 28 días.");
             break;
         
-            case "Marzo":
+        case "Marzo":
         case "Abril":
         case "Junio":
         case "Septiembre":
